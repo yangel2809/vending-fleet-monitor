@@ -1,0 +1,8 @@
+machine_id,name,latitude,longitude,stock_percentage,payment_errors_last_hour,is_online
+M-001,Centro Comercial Norte - Piso 1,10.1621,-68.0077,85,0,true
+M-002,Centro Comercial Norte - Piso 2,10.1625,-68.0070,12,0,true
+M-003,Universidad - Bloque A,10.2352,-67.9891,0,0,true
+M-004,Universidad - Bloque B,10.2360,-67.9880,45,4,true
+M-005,Terminal de Pasajeros,10.1780,-68.0210,60,0,false
+M-006,Hospital Central,10.1500,-67.9950,18,1,true
+DEPOT,Depósito Central,10.1900,-68.0000,100,0,true
